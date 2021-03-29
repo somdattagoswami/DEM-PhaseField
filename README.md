@@ -1,8 +1,7 @@
 # DEM-PhaseField
 Phase field modeling of fracture using deep energy minimization.
 
-Companion paper: Adaptive fourth-order phase field analysis using deep energy minimization
-https://www.sciencedirect.com/science/article/abs/pii/S0167844219306858
+Companion paper: [Adaptive fourth-order phase field analysis using deep energy minimization](https://www.sciencedirect.com/science/article/abs/pii/S0167844219306858)
 
 Pre-requisite packages:
 * Tensorflow 1.15 (Deep Neural Network framework)
